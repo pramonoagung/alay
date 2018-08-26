@@ -1,7 +1,7 @@
 {
   "name": "alay",
-  "version": "0.0.1",
-  "description": "\u001b[A\u001b[B NPM packages that convert a character with number",
+  "version": "1.0.2",
+  "description": "NPM packages that convert a character with number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
